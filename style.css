@@ -110,8 +110,8 @@ body {
   color: #fafeff;
 }
 
-.bottomMain button:focus {
-  color: #fafeff;
+.focus {
+  color: #fafeff !important;
 }
 
 #dailyButton {
